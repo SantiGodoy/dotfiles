@@ -1,1 +1,6 @@
-/shell/zsh/.zim/modules/
+# Common
+# ----------------------------------
+# Compiled zsh
+shell/zsh/**/**.zwc
+shell/zsh/**/**.zwc.old
+shell/zsh/.zim
